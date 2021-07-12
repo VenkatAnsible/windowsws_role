@@ -1,0 +1,5 @@
+---
+- name: To test windows roles
+  hosts: all
+  roles:
+    - winwsrole

@@ -1,0 +1,6 @@
+---
+# vars file for test
+deployed_by: Ansible
+site_title: Default Site
+site_subtitle: Welcome!
+debug_tools: False
